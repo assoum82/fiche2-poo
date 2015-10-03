@@ -1,4 +1,4 @@
-public class Point {
+public class Point { // c'est juste Fortas 
     private double abscisse;
     private double ordonnee;
 
